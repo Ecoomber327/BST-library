@@ -4,4 +4,6 @@ The tree then deletes the node containing the book or re-installs it.
 
 Make sure all 3 files are in the same folder so they interact accordingly.
 
+The code that needs to be run is in Library.java.
+
 
